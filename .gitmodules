@@ -1,0 +1,9 @@
+[submodule "vibinex-server"]
+	path = vibinex-server
+	url = git@github.com:vibinex/vibinex-server.git
+[submodule "vibi-dpu"]
+	path = vibi-dpu
+	url = git@github.com:vibinex/vibi-dpu.git
+[submodule "chrome-extension"]
+	path = chrome-extension
+	url = git@github.com:vibinex/chrome-extension.git
