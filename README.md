@@ -37,50 +37,9 @@ This project follows a dual-backend architecture to ensure privacy while serving
 
 ## Contributing
 
-We welcome contributions to the Vibinex project. Please follow these steps to contribute:
+We welcome contributions to the Vibinex project. We also provide compensation for timely contributions to important issues.
 
-1. Fork the main [Vibinex repository](https://github.com/vibinex/vibinex) on GitHub.
-2. Manually fork each submodule repository ([vibinex-server](https://github.com/vibinex/vibinex-server), [vibi-dpu](https://github.com/vibinex/vibi-dup), and [chrome-extension](https://github.com/vibinex/chrome-extension)) on GitHub.
-
-3. Clone your fork of the main repository:
-	```bash
-	git clone https://github.com/[your-username]/vibinex.git
-	```
-4. Update the submodule URLs to point to your forks:
-	```bash
-	cd vibinex
-	git config --file=.gitmodules submodule.vibinex-server.url https://github.com/[your-username]/vibinex-server.git
-	git config --file=.gitmodules submodule.vibi-dpu.url https://github.com/[your-username]/vibi-dpu.git
-	git config --file=.gitmodules submodule.chrome-extension.url https://github.com/[your-username]/chrome-extension.git
-	```
-5. Initialize and update the submodules:
-	```bash
-	git submodule update --init --recursive
-	```
-6. Create a new branch in the relevant submodule(s) where you want to make changes:
-	```bash
-	cd [submodule-directory]
-	git checkout -b [your-feature-branch]
-	```
-7. Make your changes in the submodule(s).
-8. Commit and push your changes to your fork of the submodule:
-	```bash
-	git add [relevant-modified-files]
-	git commit -m "Your descriptive commit message"
-	git push origin [your-feature-branch]
-	```
-9. Create a pull request for the submodule changes from your fork to the original submodule repository.
-10. Once the submodule pull request is merged, update the submodule reference in the main Vibinex repository:
-	```bash
-	cd [back-to-main-repo]
-	git submodule update --remote
-	git add [submodule-directory]
-	git commit -m "Update submodules: [describe your feature]"
-	git push origin main
-	```
-11. Create a pull request in the main Vibinex repository to update the submodule pointer.
-
-For more detailed information on contributing, please see our [CONTRIBUTING.md](CONTRIBUTING.md) file.
+To start contributing to Vibinex, please see our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
 
