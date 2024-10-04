@@ -1,5 +1,10 @@
 # Vibinex Code Review
-[![Discord](https://img.shields.io/discord/534485763354787851.svg)](https://discord.gg/caVSraCvpk)
+[![Discord](https://img.shields.io/discord/1173715605317230632)](https://discord.gg/caVSraCvpk)
+![GitHub Org Stars](https://img.shields.io/github/stars/vibinex)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvibinex.com)](https://vibinex.com)
+[![Chrome Extension](https://img.shields.io/chrome-web-store/stars/jafgelpkkkopeaefadkdjcmnicgpcncc)
+![Chrome Extension version](https://img.shields.io/chrome-web-store/v/jafgelpkkkopeaefadkdjcmnicgpcncc)](https://chromewebstore.google.com/detail/vibinex-code-review/jafgelpkkkopeaefadkdjcmnicgpcncc)
+![Docker size](https://img.shields.io/docker/image-size/vibinexhub/dpu)
 
 Central repository for the Vibinex project, containing other repositories as submodules.
 
