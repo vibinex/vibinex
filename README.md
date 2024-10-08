@@ -1,11 +1,18 @@
 # Vibinex Code Review
-[![Discord](https://img.shields.io/discord/534485763354787851.svg)](https://discord.gg/caVSraCvpk)
+[![Discord](https://img.shields.io/discord/1173715605317230632?logo=discord&logoColor=white&label=discord)](https://discord.gg/caVSraCvpk)
+![GitHub Org Stars](https://img.shields.io/github/stars/vibinex)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvibinex.com)](https://vibinex.com)
+[
+  ![Chrome Extension version](https://img.shields.io/chrome-web-store/v/jafgelpkkkopeaefadkdjcmnicgpcncc)
+  ![Chrome Extension](https://img.shields.io/chrome-web-store/stars/jafgelpkkkopeaefadkdjcmnicgpcncc?label=CWS%20rating)
+](https://chromewebstore.google.com/detail/vibinex-code-review/jafgelpkkkopeaefadkdjcmnicgpcncc)
+![Docker size](https://img.shields.io/docker/image-size/vibinexhub/dpu)
 
 Central repository for the Vibinex project, containing other repositories as submodules.
 
 ## Overview
 Vibinex modifies the UX for code-hosting websites like GitHub and Bitbucket to make it easier to perform high-quality code reviews.
-If you spend a significant part of your day reviewing pull requests, try out tool out.
+If you spend a significant part of your day reviewing pull requests, try our tool out.
 
 - To know more about the features of the product, visit our website ([vibinex.com](https://vibinex.com))
 - To setup Vibinex in your repositories, get started from [our documentation page](https://vibinex.com/docs)
