@@ -12,7 +12,7 @@ Central repository for the Vibinex project, containing other repositories as sub
 
 ## Overview
 Vibinex modifies the UX for code-hosting websites like GitHub and Bitbucket to make it easier to perform high-quality code reviews.
-If you spend a significant part of your day reviewing pull requests, try out tool out.
+If you spend a significant part of your day reviewing pull requests, try our tool out.
 
 - To know more about the features of the product, visit our website ([vibinex.com](https://vibinex.com))
 - To setup Vibinex in your repositories, get started from [our documentation page](https://vibinex.com/docs)
